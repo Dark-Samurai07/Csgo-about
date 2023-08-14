@@ -1,0 +1,2 @@
+# Csgo-about
+Csgo hakkında
